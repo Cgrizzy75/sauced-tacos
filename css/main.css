@@ -1,0 +1,48 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #f0f0f0;
+	padding: 20px 0;
+}
+
+header img {
+	width: 200px;
+	float: left;
+}
+
+.main-nav {
+	margin: 0;
+	padding: 0;
+	text-align: right;
+	float: right;
+}
+
+.main-nav li {
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 20px;
+}
+.home-photo{
+	width: 50%;
+	float: left;
+}
+.home-photo img{
+	width: 100%;
+
+}
+.home-text{
+	width: 50%;
+	float: left;
+}
